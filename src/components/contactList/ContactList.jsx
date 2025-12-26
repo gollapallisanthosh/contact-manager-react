@@ -67,7 +67,7 @@ const ContactList = () => {
   return (
     <>
       {/* PAGE BACKGROUND */}
-      <section style={{ backgroundColor: "#f4f6f9", minHeight: "100vh" }}>
+      <section style={{ backgroundColor: "#dae0e8ff", minHeight: "100vh" }}>
         
         {/* HEADER */}
         <section className="p-3">
@@ -106,7 +106,7 @@ const ContactList = () => {
                   <div className="col-md-6" key={contact.id}>
                     <div
                       className="card mb-3 border-0"
-                      style={{borderRadius: "15px",boxShadow: "0 8px 20px rgba(0,0,0,0.08)",transition: "transform 0.2s ease"}}>
+                      style={{borderRadius: "15px",boxShadow: "0 8px 20px rgba(77, 32, 32, 0.08)",transition: "transform 0.2s ease"}}>
                       <div className="card-body d-flex align-items-center">
 
                         {/* IMAGE */}
