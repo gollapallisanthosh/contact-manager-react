@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "id": "5287",
+      "name": "Santhosh Kumar Gollapalli",
+      "email": "gollapallisanthosh47672@gmail.com",
+      "phone": "8096217147",
+      "location": "Andhra Pradesh",
+      "role": "friend",
+      "address": "Guntur"
+    },
+    {
+      "id": "f98e",
+      "name": "Hari Sai",
+      "email": "harisai6@gmail.com",
+      "phone": "9987654321",
+      "location": "HYD",
+      "role": "friend",
+      "address": "Kbhp"
+    },
+    {
+      "id": "7ed6",
+      "name": "hemanth",
+      "email": "hemanth@gmail.com",
+      "phone": "569874123",
+      "location": "Andhra Pradesh",
+      "address": "Guntur",
+      "role": "home"
+    },
+    {
+      "id": "16a3",
+      "name": "haritha",
+      "email": "haritha123@gmail.com",
+      "phone": "987456321",
+      "location": "Andhra Pradesh",
+      "address": "Eluru",
+      "role": "home"
+    }
+  ]
+}
